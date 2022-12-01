@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj": {}
+    "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj": {
+    "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
         "projectName": "WebServiceConsumer",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
+        "projectPath": "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
         "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\obj\\",
+        "outputPath": "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",

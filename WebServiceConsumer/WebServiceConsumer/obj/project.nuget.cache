@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u7QfYErYScVEWtapzXeCdGExcBb0BLwF1Y8qjTOoEZ/8S+2h6nwJS+d50rd1EAG6jOMfdm585FmVe7qeUMyvEA==",
+  "dgSpecHash": "KhOcFo1PD0I2TPAhM23ru05kGuYyZ5Uw/O/13kqKvSMn5i8bZnhIs0U2f72Sg9UTI3fnHXAR4RgJhqVhYrPtkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\Documents\\GitHub\\wcf_service_consumer\\WebServiceConsumer\\WebServiceConsumer\\WebServiceConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matt\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Matt\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
